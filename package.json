@@ -2,7 +2,7 @@
   "name": "dtmoney",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://melquisedeque-magalhaes.github.io/dt-money/",
+  "homepage": "https://melquisedeque-magalhaes.github.io/dt-money",
   "dependencies": {
     "gh-pages": "^3.1.0",
     "react": "^17.0.1",
